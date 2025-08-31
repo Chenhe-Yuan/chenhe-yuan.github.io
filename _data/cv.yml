@@ -2,31 +2,38 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Chenhe Yuan
     - name: Date of Birth
-      value: 14th March 1879
+      value: secret
     - name: Languages
-      value: English, German
+      value: English (Professional Communication), Mandarin Chinese (Native Speaker), Spanish (Learner)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MEng (Integrated Master)
+      institution: University College London, London, United Kingdom
+      year: 2022-2026
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Electrical and Electronic Engineering
+        - title: Courses
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Digital Electronics
+            - Electromagnetic Theory and Semiconductor Devices
+            - Photonics and Communication Systems
+            - Analog and Power Electronics
+    - title: Undergraduate Exchange Student
+      institution: The University of Texas at Austin, Texas, United States
+      year: 2024-2025
       description:
-        - Description 1.
-        - Description 2.
+        - Electrical and Computer Engineering
+        - title: Courses
+          contents:
+            - Computer Architecture
+            - Algorithms
+            - Compilers
+            - Digital Logic Design
+            - Data Science Lab
 
 - title: Experience
   type: time_table
